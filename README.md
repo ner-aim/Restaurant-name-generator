@@ -71,9 +71,9 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to interact.
 <!-- ![QA Demo](assets/qa_demo.gif) -->
 
 ### Insight Summarization
-![Summarization Demo](./Screenshot 2025-05-17 202127.png)
+![Summarization Demo](Screenshot 2025-05-17 202127.png)
 
--->
+---
 
 ## 📈 Potential Applications
 - Retail media performance reporting  
