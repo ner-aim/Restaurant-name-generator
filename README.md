@@ -68,10 +68,10 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to interact.
  ## 🖼️ Screenshots
 
 ### Campaign Q&A
-<!-- ![QA Demo](assets/qa_demo.gif) -->
+ ![QA Demo](assets/qa_demo.gif)
 
 ### Insight Summarization
-![Summarization Demo](Screenshot 2025-05-17 202127.png)
+![Summarization Demo](Screenshot_2025-05-17_202127.png)
 
 ---
 
