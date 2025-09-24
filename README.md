@@ -65,7 +65,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to interact.
 
 ---
 
-## 🖼️ Screenshots
+<!-- ## 🖼️ Screenshots
 
 ### Campaign Q&A
 ![QA Demo](assets/qa_demo.gif)
@@ -73,7 +73,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to interact.
 ### Insight Summarization
 ![Summarization Demo](assets/summarization.png)
 
----
+-->
 
 ## 📈 Potential Applications
 - Retail media performance reporting  
