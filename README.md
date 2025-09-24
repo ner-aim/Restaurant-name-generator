@@ -65,13 +65,13 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to interact.
 
 ---
 
-<!-- ## 🖼️ Screenshots
+ ## 🖼️ Screenshots
 
 ### Campaign Q&A
-![QA Demo](assets/qa_demo.gif)
+<!-- ![QA Demo](assets/qa_demo.gif) -->
 
 ### Insight Summarization
-![Summarization Demo](assets/summarization.png)
+![Summarization Demo](./Screenshot 2025-05-17 202127.png)
 
 -->
 
