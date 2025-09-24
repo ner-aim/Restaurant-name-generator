@@ -70,7 +70,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to interact.
 ### Campaign Q&A
  ![QA Demo](assets/qa_demo.gif)
 
-### Insight Summarization
+### Outputs
 ![Summarization Demo](Screenshot_2025-05-17_202127.png)
 
 ---
