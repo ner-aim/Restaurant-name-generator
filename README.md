@@ -81,14 +81,6 @@ Open [http://localhost:8501](http://localhost:8501) in your browser to interact.
 - Automated BI report generation  
 - Customer-facing analytics dashboards  
 
----
-
-## 🤝 Contributing
-Contributions are welcome!  
-1. Fork the repo  
-2. Create a branch (`feature/my-feature`)  
-3. Commit changes  
-4. Open a PR 🚀  
 
 ---
 
